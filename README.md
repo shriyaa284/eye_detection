@@ -5,4 +5,4 @@ The goal of this project is to detect Eyes in the images and from webcam. I have
 1. Language : Python
 2. Framework : open cv2 (open source computer vision library)
 
-For this use command - pip install opencv-python
+
